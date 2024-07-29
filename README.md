@@ -16,6 +16,6 @@ I am passionate about coding and love solving algorithmic problems. Feel free to
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pakorn-skunsongbunsiri-270799183/)
 [![Email](https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:pakornh2002@gmail.com)
-
+[![JobsDB](https://img.shields.io/badge/JobsDB-0077B5?style=for-the-badge)](https://th.jobsdb.com/th/profile/pakorn-skunsongbunsiri-X9FYpTz3tt)
 
 Thank you for visiting my profile!
